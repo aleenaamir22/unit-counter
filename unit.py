@@ -78,7 +78,7 @@ st.markdown(
 )
 
 # Title and input fields
-st.title("📦 Pastel Unit Counter")
+st.title("Unit Counter By Aleena Amir")
 
 with st.container():
     st.subheader("Add or Remove Units")
